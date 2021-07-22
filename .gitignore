@@ -9,6 +9,9 @@ __pycache__/
 # VS code
 *.code-workspace
 
+# CSV files
+*.csv
+
 # Distribution / packaging
 .Python
 build/
